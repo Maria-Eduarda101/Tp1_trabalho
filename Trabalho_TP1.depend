@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1790689759 source:c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\main.cpp
+	<iostream>
+	"dominios (headers)/estado.h"
+	"testes (headers)/dominios/teste_estado.h"
+	"dominios (headers)/papel.h"
+	"testes (headers)/dominios/teste_papel.h"
+	"dominios (headers)/prioridade.h"
+	"testes (headers)/dominios/teste_prioridade.h"
+	"dominios (headers)/tamanho.h"
+	"testes (headers)/dominios/teste_tamanho.h"
+
+1789479647 source:c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\dominios (sources)\estado.cpp
+	"../dominios (headers)/estado.h"
+
+1789479681 c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\dominios (headers)\estado.h
+	<stdexcept>
+	<string>
+
+1789480225 source:c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\dominios (sources)\papel.cpp
+	"../dominios (headers)/papel.h"
+
+1789480581 c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\dominios (headers)\papel.h
+	<stdexcept>
+	<string>
+
+1789480879 source:c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\dominios (sources)\tamanho.cpp
+	"../dominios (headers)/tamanho.h"
+
+1789480565 c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\dominios (headers)\tamanho.h
+	<stdexcept>
+	<string>
+
+1789481669 source:c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\dominios (sources)\prioridade.cpp
+	"../dominios (headers)/prioridade.h"
+
+1789481514 c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\dominios (headers)\prioridade.h
+	<stdexcept>
+	<string>
+
+1790547888 c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\testes (headers)\dominios\teste_estado.h
+	<string>
+	"../../dominios (headers)/estado.h"
+
+1790547955 source:c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\testes (sources)\dominios\teste_estado.cpp
+	"../../testes (headers)/dominios/teste_estado.h"
+
+1790688002 c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\testes (headers)\dominios\teste_papel.h
+	<string>
+	"../../dominios (headers)/papel.h"
+
+1790688463 source:c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\testes (sources)\dominios\teste_papel.cpp
+	"../../testes (headers)/dominios/teste_papel.h"
+
+1790689150 c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\testes (headers)\dominios\teste_prioridade.h
+	<string>
+	"../../dominios (headers)/prioridade.h"
+
+1790689721 source:c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\testes (sources)\dominios\teste_prioridade.cpp
+	"../../testes (headers)/dominios/teste_prioridade.h"
+
+1790690056 c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\testes (headers)\dominios\teste_tamanho.h
+	<string>
+	"../../dominios (headers)/tamanho.h"
+
+1790690301 source:c:\users\usuario\desktop\unb\tp\trabalho\trabalho_tp1\testes (sources)\dominios\teste_tamanho.cpp
+	"../../testes (headers)/dominios/teste_tamanho.h"
+
